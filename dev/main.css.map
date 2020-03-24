@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/scss/main.scss","webpack:///main.scss"],"names":[],"mappings":"AAAA;EACE;ACCF,C","file":"main.css","sourcesContent":[":root {\n  --color-black: rgb(0, 0, 0);\n}\n",":root {\n  --color-black: rgb(0, 0, 0);\n}"],"sourceRoot":""}
